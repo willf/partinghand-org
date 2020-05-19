@@ -1,4 +1,6 @@
 baseURL = "https://partinghand.org"
+publishDir = "docs"
+relativeURLs = true
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
