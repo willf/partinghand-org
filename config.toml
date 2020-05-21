@@ -19,9 +19,10 @@ googleAnalytics = ""
 [params]
 ordersectionsby = "weight" # ordersectionsby = "title"
 disableSearch = false # default is false
-disableReadmoreNav = false # set true to hide prev/next navigation, default is false
+disableReadmoreNav = true # set true to hide prev/next navigation, default is false
 highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
 menushortcutsnewtab = true # set true to open shortcuts links to a new tab/window
+custom_css = ["css/overrides.css"]
 
 [markup]
   [markup.goldmark]
@@ -30,3 +31,4 @@ menushortcutsnewtab = true # set true to open shortcuts links to a new tab/windo
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
+
