@@ -1,8 +1,8 @@
 +++
-title = "Mary Ellen Wilkinson
-(aka Grandma Wilkinson)"
+title = "Mary Ellen Wilkinson"
 +++
 
+### aka Grandma Wilkinson
 
 ### Tunes to sing
 - 59 Holy Manna vs. 1, 2, esp. 5
