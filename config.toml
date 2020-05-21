@@ -23,6 +23,7 @@ disableReadmoreNav = true # set true to hide prev/next navigation, default is fa
 highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
 menushortcutsnewtab = true # set true to open shortcuts links to a new tab/window
 custom_css = ["css/overrides.css"]
+toc = false
 
 [markup]
   [markup.goldmark]
