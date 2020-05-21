@@ -9,6 +9,8 @@ Many of us tend to move around, and many of us aren't always surrounded by folks
 
 The Parting Hand is a place for people to list the names of their favorite tunes in the hopes that, when "the evening shades appear," their friends and loved ones will know what to sing. Of course, it would be appropriate to record other intentions here--such as scripture verses to read, things to do, and so on.
 
+[List of singers and tunes to sing for them](/directions)
+
 If you would like to have a page on this site, please send an email to either of the moderators with a note describing:
 
 - The tunes (and tunebooks) you would like to be remembered by
