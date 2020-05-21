@@ -28,6 +28,5 @@ title = "Leslie Booher"
 Other than that, sing anything you think I'd like, that I've led in the past, or that I've mentioned as a favorite in the past, etc. 
 
  
-Leslie Booher, alto
-
+#### Leslie Booher, alto
 Elizabethton, Tennessee
