@@ -1,7 +1,9 @@
 +++
-title = "When I am gone"
+title = "Index of Singers"
 description = "Tunes to sing at my funeral and other directions"
 +++
+
+## When I am gone
 
 {{< lead >}}
 Many of us tend to move around, and many of us aren't always surrounded by folks who know us well. So, when it comes time for others to sing on our behalf, how will they know what our favorite songs were?
