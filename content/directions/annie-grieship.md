@@ -2,10 +2,6 @@
 title = "Annie Grieshop"
 +++
 
-### From
-
-- Central Iowa
-
 ## Tunes to Sing
 
 - **Some of my favorite tunes**: Denson 344, 168, 192, 112, 168, 192 (not too fast), 84
