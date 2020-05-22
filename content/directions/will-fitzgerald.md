@@ -5,7 +5,18 @@ description = ""
 
 ### Tunes to Sing
 
-Some of my favorite tunes: Denson book: Restoration (312b), Africa (178); The Child of Grace (77t); Wayfaring Stranger (457); Easter Anthem (236); Harmonia Sacra: New Monmouth, Dedication Anthem
+#### Denson book
+
+- Restoration (312b)
+- Africa (178)
+- The Child of Grace (77t)
+- Wayfaring Stranger (457)
+- Easter Anthem (236)
+
+### Harmonia Sacra
+
+- New Monmouth
+- Dedication Anthem
 
 ### Scripture
 
