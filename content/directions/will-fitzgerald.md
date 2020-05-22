@@ -20,7 +20,7 @@ description = ""
 
 ### Scripture
 
-- Consider reading this scripture**: John 11
+- Consider reading this scripture: John 11
 
 ### Please tell
 
