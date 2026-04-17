@@ -21,10 +21,8 @@ And if you would like to add links to recordings or photographs (or suggest new 
 
 In bonds of love, your moderators,
 
-- Will Fitzgerald (will dot fitzgerald at pobox dot com)
-- Annie Grieshop (annie at allthingspiano dot com)
-{{< /lead >}}
+- Will Fitzgerald (will dot fitzgerald at gmail dot com)
+- Annie Grieshop (annie.grieshop at gmail dot com)
+  {{< /lead >}}
 
 <iframe style="display:block; margin: 0 auto;" width="560" height="315" src="https://www.youtube.com/embed/UHEVnJKlKuA?start=7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
