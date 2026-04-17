@@ -1,7 +1,6 @@
 +++
-title = "Don Bowen"
+title = "Bowen, Don"
 +++
-
 
 ### Tunes to sing
 
@@ -11,12 +10,9 @@ title = "Don Bowen"
 - 503 Lloyd
 - 145b Sweet Affliction
 - 347 Christian's Farewell
- 
 
 Don says: Sacred harp is my life!
 
-
 ### Whom to tell
 
- 
 Tell everyone!

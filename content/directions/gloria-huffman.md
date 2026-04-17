@@ -1,17 +1,20 @@
 +++
-title = "Gloria Merle Huffman"
+title = "Huffman, Gloria Merle"
 +++
- 
-### Tunes to sing 
-- Lead, Kindly Light 
+
+### Tunes to sing
+
+- Lead, Kindly Light
 - Safe Within the Vail
 - Is Not This the Land of Beulah?
 
-### Please tell 
+### Please tell
+
 - Frances Rebecca Huffman
-- Byron Lane Huffman 
+- Byron Lane Huffman
 - Philip Edwin Huffman
 
-### Other 
-- Obituary 
+### Other
+
+- Obituary
 - Achievements

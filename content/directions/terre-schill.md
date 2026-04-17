@@ -1,7 +1,6 @@
 +++ 
-title = "Terre Schill"
+title = "Schill, Terre"
 +++
- 
 
 ### Tunes
 
@@ -11,20 +10,18 @@ Before and during service -
 - China - Denson book
 - Carry Me Home - Cooper book
 - White - any book
- 
+
 As people are leaving building
 
 - Deliverance Will Come - Harp of Ages
- 
+
 At graveside
 
 - When I am Gone - Denson book
- 
 
-### Tell 
+### Tell
 
 Put it on Fasola listserver
- 
 
 ### Other
 

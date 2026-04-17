@@ -1,5 +1,5 @@
 +++
-title = "Will Fitzgerald"
+title = "Fitzgerald, Will"
 description = ""
 +++
 

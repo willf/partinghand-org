@@ -1,9 +1,9 @@
 +++
-title = "Lucy Heyerman"
-+++ 
- 
+title = "Heyerman, Lucy"
++++
 
 ### Tunes to sing
+
 - 184 NHC (Church Bell)
 - 74 NHC
 - 163 NHC
@@ -20,11 +20,11 @@ title = "Lucy Heyerman"
 - 392 CB
 - Joy-ICH
 - Shouting Hymn- ICH
- 
 
 ### Tell
+
 Anyone willing to sing.........
 
- 
 ### Scripture
+
 Ecclesiastes 3:1

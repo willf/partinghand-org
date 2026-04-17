@@ -1,8 +1,7 @@
 +++
-title = "Chris Sepik"
+title = "Sepik, Chris"
 +++
- 
- 
+
 ### Songs I'd like sung
 
 - 350 Nativity
@@ -21,13 +20,9 @@ title = "Chris Sepik"
 
 - 515 Federal Street
 
- 
-
 ### Other
 
 I am a former member of the singing groups in Cleveland, OH, and Richmond, VA, and miss everyone I used to sing with.
-
- 
 
 ### Who to tell this to
 

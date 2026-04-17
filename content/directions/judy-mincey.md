@@ -1,5 +1,5 @@
 +++
-title = "Judy Mincey"
+title = "Mincey, Judy"
 description = ""
 +++
 
@@ -13,39 +13,39 @@ The below are suggestions and, of course, are not a complete list of all my favo
 #### Sacred Harp, 1991 Revision
 
 - 475 A Thankful Heart
-- 146 Hallelujah 
-- 503  Lloyd
+- 146 Hallelujah
+- 503 Lloyd
 - 569t Emmaus
-- 34b  St. Thomas
-- 45t New Britain 
+- 34b St. Thomas
+- 45t New Britain
 
 #### Christian Harmony
 
-- 546 Higher Ground 
-- 548 Macedonia 
-- 546b Oak Grove 
+- 546 Higher Ground
+- 548 Macedonia
+- 546b Oak Grove
 - 133 Juniata
 - 50 Cranbrook
 - 51 Lonsdale
- 
+
 #### Shenandoah Harmony
 
 - 264 Millbrook
 - 195. Sixty-Five South
 - 413 Marcia
 - 242 Boulder
- 
-#### Other 
+
+#### Other
 
 - The Shropshire Funeral Hymn, all verses (Eclectic Harmony 78)
-- Ten Thousand Charm  (Norumbega Harmony 244)
-- Paradise 
- 
+- Ten Thousand Charm (Norumbega Harmony 244)
+- Paradise
+
 ### Tunes not to sing
 
 - <s>285t Arnold</s>
 - <s>348b Fleeting Days</s>
-- <s>127  Green Fields</s>
+- <s>127 Green Fields</s>
 - <s>490 My Shepherd Guides</s>
 
 I promise to haunt y’all!
@@ -55,4 +55,3 @@ I promise to haunt y’all!
 - Romans 8:38
 - 1 Thessalonians 4:14-18
 - Job 19:25-27
- 

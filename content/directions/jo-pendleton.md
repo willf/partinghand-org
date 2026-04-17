@@ -1,11 +1,11 @@
 +++
-title = "Jo Pendleton"
+title = "Pendleton, Jo"
 +++
- 
 
 ### Songs I'd like sung
 
 #### Cooper book, 2000 revision
+
 - 61 Sweet Rivers
 - 558b I'll praise my Master
 - 505, vs 4&5 only
@@ -13,15 +13,16 @@ title = "Jo Pendleton"
 - 146 Hallelujah (repeat chorus 2X) & have everyone sing this
 
 #### Denson book
+
 - 163b China
 
-### Scripture 
+### Scripture
 
-- Psalm 16 
+- Psalm 16
 - II Corinthians 4:6-12
-- I Peter 5:10-11 
+- I Peter 5:10-11
 - Benediction: Ephesians 3:14-21.
 
-### Other 
+### Other
 
 Solo by Linda Shaw: Balm in Gilead.

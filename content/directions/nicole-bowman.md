@@ -1,14 +1,16 @@
 +++
-title = "Nicole Bowman"
+title = "Bowman, Nicole"
 +++
 
 ### Please consider these tunes
 
 #### Denson Edition
+
 - Christian's Farewell 347
 - Christian Song 240
 
 #### Cooper Edition
+
 - Boylston 447t
 - Angel Band 463
 - Evening Shade 132

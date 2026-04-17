@@ -1,9 +1,8 @@
 +++
-title = "John Hyde"
+title = "Hyde, John"
 +++
- 
-From the fasola discussion list:
 
+From the fasola discussion list:
 
 Dear folks,
 
@@ -13,15 +12,9 @@ years of age. John was fun to be with and loved his wife Josie, his children
 and grandchildren, sacred harp and people. We will miss him but there is a
 great homecoming going on right now in heaven.
 
-
-
 John liked 43, 124, 297.
 
-
- 
 Please remember Josie and the family. Thanks to everyone for the calls,
 cards, visits and prayers.
 
- 
 Richard Mauldin
-
